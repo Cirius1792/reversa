@@ -6,8 +6,8 @@
 
 ## Progress
 
-**Current Phase:** 1.4 New project agents (7 remaining)
-**Overall:** 56/134 files completed
+**Current Phase:** 1.4 New project agents (6 remaining)
+**Overall:** 57/134 files completed
 
 ---
 
@@ -54,7 +54,7 @@
 
 - [x] `agents/reversa-new/SKILL.md`
 - [x] `agents/reversa-ideator/SKILL.md`
-- [ ] `agents/reversa-researcher/SKILL.md`
+- [x] `agents/reversa-researcher/SKILL.md`
 - [ ] `agents/reversa-drafter/SKILL.md`
 - [ ] `agents/reversa-spec-sdd/SKILL.md`
 - [ ] `agents/reversa-spec-sdd/references/sdd_guide.md`
