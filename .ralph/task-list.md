@@ -6,8 +6,8 @@
 
 ## Progress
 
-**Current Phase:** 1.2 Forward cycle agents (2 remaining)
-**Overall:** 37/134 files completed
+**Current Phase:** 1.2 Forward cycle agents (1 remaining)
+**Overall:** 38/134 files completed
 
 ---
 
@@ -29,7 +29,7 @@
 - [x] `agents/reversa-quality/SKILL.md`
 - [x] `agents/reversa-forward/SKILL.md`
 - [x] `agents/reversa-resume/SKILL.md`
-- [ ] `agents/reversa-principles/SKILL.md`
+- [x] `agents/reversa-principles/SKILL.md`
 
 ### Phase 1.3: Migration team agents (14 files)
 
