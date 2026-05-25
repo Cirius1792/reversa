@@ -49,3 +49,13 @@ Call `ralph_done` to advance to the next iteration.
 - Always verify the subagent actually translated the file and committed.
 - If a file has no Portuguese content, mark it as done anyway (it may already be English).
 - For Phase 4 (Cleanup & Renaming), this is a decision-making phase — skip it for now and note it as pending.
+
+## Progress Log
+
+### Iteration 2
+- Selected next unchecked file: `agents/reversa-arquitetura-3d/references/CALL_GRAPH_3D.md`
+- Translation completed and written back to the same file.
+- Verified translation commit: `8f05c33` (`translate: agents/reversa-arquitetura-3d/references/CALL_GRAPH_3D.md`)
+- Verified latest task-list commit message: `docs: update task list — mark agents/reversa-arquitetura-3d/references/CALL_GRAPH_3D.md as done`
+- Verified `.ralph/task-list.md` progress updated to `66/134 files completed` and Phase 1.5 remaining count updated to `16 remaining`.
+- Verification evidence: `git log --oneline -2`, `git status --short`, and file inspection of `agents/reversa-arquitetura-3d/references/CALL_GRAPH_3D.md`.
