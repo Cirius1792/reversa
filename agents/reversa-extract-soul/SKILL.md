@@ -22,7 +22,7 @@ This skill is part of the Discovery Team (Reversa Core), but **does not enter th
 
 ## Before starting
 
-1. Read `.reversa/state.json`, especially: `output_folder` (default `_reversa_sdd`), `doc_level` (default `completo`), `doc_language`, `user_name`.
+1. Read `.reversa/state.json`, especially: `output_folder` (default `_reversa_sdd`), `doc_level` (default `complete`), `doc_language`, `user_name`.
 2. Use `output_folder` in all write operations.
 
 ## Mandatory prerequisite

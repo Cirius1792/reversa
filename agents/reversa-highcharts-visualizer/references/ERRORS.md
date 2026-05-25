@@ -81,12 +81,12 @@ The accessibility module warns about contrast issues.
 
 ## CSV with different encoding (UTF-8 BOM, Latin1)
 
-**Symptom:** Special characters (accents) appear as "�" or "Ã©".
+**Symptom:** Special characters appear garbled, such as replacement symbols or mojibake.
 
 **Action:** `scripts/parse_data.py` tries to detect encoding automatically.
 If it fails, force the encoding:
 ```bash
-python scripts/parse_data.py dados.csv --encoding latin1
+python scripts/parse_data.py data.csv --encoding latin1
 ```
 
 ## Excel file with multiple sheets

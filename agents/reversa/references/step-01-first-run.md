@@ -17,7 +17,7 @@ If `user_name` is blank, ask one at a time:
 
 - "What is your name?"
 - "What language do you prefer the agents to communicate with you in? (e.g., en, pt-br)"
-- "In what language should the specifications be generated? (e.g., English, Português)"
+- "In what language should the specifications be generated? (e.g., English, Spanish)"
 - "What is the name of this project?"
 
 Save the answers in `.reversa/state.json` in the `user_name`, `chat_language`, `doc_language` and `project` fields.

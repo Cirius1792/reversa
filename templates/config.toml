@@ -7,8 +7,8 @@ version = "1.0.0"
 
 [user]
 name = ""
-chat_language = "pt-br"
-doc_language = "pt-br"
+chat_language = "en"
+doc_language = "English"
 
 [output]
 folder = "_reversa_sdd"

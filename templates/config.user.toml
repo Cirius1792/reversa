@@ -5,4 +5,5 @@
 # Override example:
 # [user]
 # name = "Your Name"
-# chat_language = "pt-br"
+# chat_language = "en"
+# doc_language = "English"

@@ -69,7 +69,7 @@ These examples demonstrate the language pattern and structure expected in genera
     "scene_type": "high-speed commercial luxury shake photography",
     "product": {
       "type": "elegant frosted glass bottle filled with velvety strawberry shake",
-      "brand_name": "ROSÉ VELVET",
+      "brand_name": "ROSE VELVET",
       "appearance": "minimalist vertical blush label with embossed rose-gold serif typography, creamy pastel pink liquid with natural strawberry swirls",
       "accompaniments": [
         "fresh strawberry halves with visible seeds and juicy texture",

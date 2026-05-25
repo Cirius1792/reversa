@@ -91,7 +91,7 @@ The skill has **5 established patterns**, each with a distinct look. The seed de
 | `flow-field` | Perlin flow fields, curved organic strokes | `sober`, `exploratory` style |
 | `particle-orbit` | Particles orbiting a center with trails | `premium`, `exploratory` style |
 | `crystal-lattice` | Symmetric crystalline shape, clean geometry | `dense`, `sober` style |
-| `wave-interference` | Moiré-like interference patterns, circular waves | `premium`, `dense` style |
+| `wave-interference` | Moire-like interference patterns, circular waves | `premium`, `dense` style |
 | `noise-strata` | Horizontal noise strata, abstract landscape | `sober`, `exploratory` style |
 
 Details in `references/GENERATIVE_PATTERNS.md`.

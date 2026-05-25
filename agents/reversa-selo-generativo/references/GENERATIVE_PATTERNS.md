@@ -207,7 +207,7 @@ function drawCrystal() {
 
 ## 4. wave-interference
 
-Moiré-like interference patterns: circular waves from multiple centers crossing each other, generating complex textures from simple rules.
+Moire-like interference patterns: circular waves from multiple centers crossing each other, generating complex textures from simple rules.
 
 **When it fits**: `premium` style (black + gold, high contrast) and `dense`.
 

@@ -106,10 +106,10 @@ When the user chooses "Other" in the style menu and provides a freeform descript
 ```javascript
 function paletteFromFreeform(text) {
     const lower = text.toLowerCase();
-    if (/(luxo|premium|cinematogr|dark)/.test(lower)) return palettes.premium;
-    if (/(t[ée]cnico|s[óo]brio|clean|minimal)/.test(lower)) return palettes.sober;
-    if (/(denso|saturado|colorido|vibra)/.test(lower)) return palettes.dense;
-    if (/(explora|3D|luminoso|et[ée]reo)/.test(lower)) return palettes.exploratory;
+    if (/(luxury|premium|cinematic|dark)/.test(lower)) return palettes.premium;
+    if (/(technical|sober|clean|minimal)/.test(lower)) return palettes.sober;
+    if (/(dense|saturated|colorful|vibrant)/.test(lower)) return palettes.dense;
+    if (/(exploratory|3D|luminous|ethereal)/.test(lower)) return palettes.exploratory;
     return palettes.sober; // safe fallback
 }
 ```
