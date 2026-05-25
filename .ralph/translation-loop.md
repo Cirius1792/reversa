@@ -52,6 +52,14 @@ Call `ralph_done` to advance to the next iteration.
 
 ## Progress Log
 
+### Iteration 3
+- Selected next unchecked file: `agents/reversa-arquitetura-3d/references/CODE_CITY.md`
+- Translation completed and written back to the same file.
+- Verified translation commit: `0952219` (`translate: agents/reversa-arquitetura-3d/references/CODE_CITY.md`)
+- Verified latest task-list commit message: `docs: update task list — mark agents/reversa-arquitetura-3d/references/CODE_CITY.md as done`
+- Verified `.ralph/task-list.md` progress updated to `67/134 files completed` and Phase 1.5 remaining count updated to `15 remaining`.
+- Verification evidence: `git log --oneline -2`, `git status --short`, and file inspection of `agents/reversa-arquitetura-3d/references/CODE_CITY.md`.
+
 ### Iteration 2
 - Selected next unchecked file: `agents/reversa-arquitetura-3d/references/CALL_GRAPH_3D.md`
 - Translation completed and written back to the same file.

@@ -6,8 +6,8 @@
 
 ## Progress
 
-**Current Phase:** 1.5 Visualization & specialist agents (16 remaining)
-**Overall:** 66/134 files completed
+**Current Phase:** 1.5 Visualization & specialist agents (15 remaining)
+**Overall:** 67/134 files completed
 
 ---
 
@@ -67,7 +67,7 @@
 - [x] `agents/reversa-arquitetura-3d/SKILL.md`
 - [x] `agents/reversa-arquitetura-3d/references/ARCH_TOUR.md`
 - [x] `agents/reversa-arquitetura-3d/references/CALL_GRAPH_3D.md`
-- [ ] `agents/reversa-arquitetura-3d/references/CODE_CITY.md`
+- [x] `agents/reversa-arquitetura-3d/references/CODE_CITY.md`
 - [ ] `agents/reversa-arquitetura-3d/references/DEPENDENCY_GRAPH_3D.md`
 - [ ] `agents/reversa-arquitetura-3d/references/ERRORS.md`
 - [ ] `agents/reversa-arquitetura-3d/references/LAYER_STACK.md`
